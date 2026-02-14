@@ -1,0 +1,4 @@
+br\edu\ifpb\confeitaria\dao\ProdutoDAO.class
+br\edu\ifpb\confeitaria\controller\ProdutoServlet.class
+br\edu\ifpb\confeitaria\model\Produto.class
+br\edu\ifpb\confeitaria\dao\ConnectionFactory.class
