@@ -1,0 +1,8 @@
+br\edu\ifpb\confeitaria\controller\ProdutoServlet.class
+br\edu\ifpb\confeitaria\model\Produto.class
+br\edu\ifpb\confeitaria\controller\ListarPedidosServlet.class
+br\edu\ifpb\confeitaria\controller\RankingServlet.class
+br\edu\ifpb\confeitaria\dao\RelatorioDAO.class
+br\edu\ifpb\confeitaria\dao\ConnectionFactory.class
+br\edu\ifpb\confeitaria\dao\ProdutoDAO.class
+br\edu\ifpb\confeitaria\controller\RelatoriosServlet.class
